@@ -1,0 +1,1 @@
+export const chatsEndPoint="https://my-json-server.typicode.com/codebuds-fk/chat/chats"
